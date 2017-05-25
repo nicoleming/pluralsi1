@@ -1,0 +1,9 @@
+Steps:
+- Create Package 
+https://gist.github.com/coryhouse/29bd1029b623beb4c7f79b748dcba844
+
+-  Run 'npm install' in terminal (dependency nodejs and npm)
+
+can run it globall 'npm install -g nsp'
+
+- Run security check on comman line
