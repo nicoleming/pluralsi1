@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Created by nicolemi on 5/25/2017.
  */
 // this file isn't transpiled, so must use CommonJS and ES5
